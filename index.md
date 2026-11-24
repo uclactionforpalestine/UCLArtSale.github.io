@@ -10,21 +10,12 @@ This art sale was launched by students at UCL as a mutual-aid action to support 
 The artworks in this collection have been generously donated to this fundraising effort. If you have any questions or artworks you would like to contribute, please get in touch with uclactionforpalestine@gmail.com.
 
 ---
-<h2 style="text-align: center;">OUR DEMANDS</h2>
+<h2 style="text-align: center;">Tarun</h2>
 
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
     <div class="carousel-container">
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/1.PNG" alt="Slide 1"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/2.PNG" alt="Slide 2"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/3.PNG" alt="Slide 3"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/4.PNG" alt="Slide 4"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/5.PNG" alt="Slide 5"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/6.PNG" alt="Slide 6"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/7.PNG" alt="Slide 7"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/8.PNG" alt="Slide 8"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/9.PNG" alt="Slide 9"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/10.PNG" alt="Slide 10"></div>
+        <div class="carousel-slide"><img src="https://UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG" alt="Slide 1"></div>
     </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
 </div>
