@@ -188,6 +188,90 @@ The artworks in this collection have been generously donated to this fundraising
 </script>
 
 ---
+<h2 style="text-align: center;">Ruan Murphy</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2799.jpg"></div>
+</div>
+---
+<h2 style="text-align: center;">Peckham Keffiyeh</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2764.jpg"></div>
+</div>
+---
+<h2 style="text-align: center;">Matthew Collings</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/A45CC7EB-B712-45B6-8A0B-C2AA187CB07D 2.JPG"></div>
+</div>
+---
+<h2 style="text-align: center;">Maqam Books</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/Screenshot 2026-10-29 at 10.43.20.png"></div>
+</div>
+---
+<h2 style="text-align: center;">Louie Adams</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/C42905AA-EEA1-4AF7-94C4-A685C67B3B1A 2.JPG"></div>
+</div>
+---
+<h2 style="text-align: center;">Julia Maddison</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/44CBCBBB-F64C-4B0F-8D88-B01D4225293D (1).JPG"></div>
+</div>
+---
+<h2 style="text-align: center;">Hamja Ahsan</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/Screenshot 2026-10-29 at 10.19.38.png"></div>
+</div>
+---
+<h2 style="text-align: center;">Zeloot Illustrations</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2814.jpg"></div>
+</div>
+
+---
+<h2 style="text-align: center;">Autonomous Design Collective</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/B4D2323E-7F28-4B8C-9395-5C389737172A.JPG"></div>
+</div>
+
+---
+<h2 style="text-align: center;">Artists For Gaza</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/38A0E649-8038-4CB1-A841-178F64022FB7.JPG"></div>
+</div>
+
+---
+<h2 style="text-align: center;">Artists For Gaza - Chris Sullivan</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F035E4C2-B4EE-48D8-83DA-B3C776DCFB53.JPG"></div>
+</div>
+
+---
+<h2 style="text-align: center;">Artists For Gaza - Chris Sullivan</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F035E4C2-B4EE-48D8-83DA-B3C776DCFB53.JPG"></div>
+</div>
+---
+<h2 style="text-align: center;">Artists For Gaza - Chris Sullivan</h2>
+
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F035E4C2-B4EE-48D8-83DA-B3C776DCFB53.JPG"></div>
+</div>
+<h2 style="text-align: center;">Badges/Magnets</h2>
+
+---
 <h2 style="text-align: center;">OUR DEMANDS</h2>
 
 <div class="carousel">
