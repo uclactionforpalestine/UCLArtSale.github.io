@@ -38,8 +38,9 @@ The artworks in this collection have been generously donated to this fundraising
         <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2661 - Ali Jaffar.jpeg" alt="Slide 13"></div>
         <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2662 - Ali Jaffar.jpeg" alt="Slide 14"></div>
         <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2663 - Ali Jaffar.jpeg" alt="Slide 15"></div>
-        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2664 - Ali Jaffar.jpeg" 
-    </div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2664 - Ali Jaffar.jpeg"
+                                        alt="Slide 15"></div>
+            </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
 </div>
 
