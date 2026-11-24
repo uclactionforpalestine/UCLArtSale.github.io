@@ -88,16 +88,22 @@ The artworks in this collection have been generously donated to this fundraising
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
     <div class="carousel-container">
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/1.PNG" alt="Slide 1"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/2.PNG" alt="Slide 2"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/3.PNG" alt="Slide 3"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/4.PNG" alt="Slide 4"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/5.PNG" alt="Slide 5"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/6.PNG" alt="Slide 6"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/7.PNG" alt="Slide 7"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/8.PNG" alt="Slide 8"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/9.PNG" alt="Slide 9"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/10.PNG" alt="Slide 10"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2649 - Ali Jaffar.jpeg" alt="Slide 1"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2650 - Ali Jaffar.jpeg" alt="Slide 2"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2651 - Ali Jaffar.jpeg" alt="Slide 3"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2652 - Ali Jaffar.jpeg" alt="Slide 4"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2653 - Ali Jaffar.jpeg" alt="Slide 5"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2654 - Ali Jaffar.jpeg" alt="Slide 6"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2655 - Ali Jaffar.jpeg" alt="Slide 7"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2656 - Ali Jaffar.jpeg" alt="Slide 8"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2657 - Ali Jaffar.jpeg" alt="Slide 9"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2658 - Ali Jaffar.jpeg" alt="Slide 10"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2659 - Ali Jaffar.jpeg" alt="Slide 11"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2660 - Ali Jaffar.jpeg" alt="Slide 12"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2661 - Ali Jaffar.jpeg" alt="Slide 13"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2662 - Ali Jaffar.jpeg" alt="Slide 14"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2663 - Ali Jaffar.jpeg" alt="Slide 15"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2664 - Ali Jaffar.jpeg" 
     </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
 </div>
@@ -114,7 +120,7 @@ The artworks in this collection have been generously donated to this fundraising
     .carousel-container {
         display: flex;
         transition: transform 0.5s ease-in-out;
-        width: 100%; /* 540px * 10 images */
+        width: 100%; /* 540px * 15 images */
     }
 
     .carousel-slide {
