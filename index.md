@@ -32,7 +32,7 @@ The artworks in this collection have been generously donated to this fundraising
     .carousel-container {
         display: flex;
         transition: transform 0.5s ease-in-out;
-        width: 100%; /* 540px * 10 images */
+        width: 100%; /* 540px * 1 image */
     }
 
     .carousel-slide {
@@ -83,7 +83,7 @@ The artworks in this collection have been generously donated to this fundraising
 </script>
 
 ---
-<h2 style="text-align: center;">OUR DEMANDS</h2>
+<h2 style="text-align: center;">UCL Ahlul-Bayt Society Pictures</h2>
 
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
