@@ -12,75 +12,10 @@ The artworks in this collection have been generously donated to this fundraising
 ---
 <h2 style="text-align: center;">Tarun</h2>
 
-<div class="carousel">
-    <button class="prev" onclick="moveSlide(-1)">❮</button>
-    <div class="carousel-container">
-        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG" alt="Slide 1"></div>
-    </div>
-    <button class="next" onclick="moveSlide(1)">❯</button>
+<div class="picture">
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG"></div>
 </div>
 
-<style>
-    .carousel {
-        position: relative;
-        width: 100%;
-        height: 100%;
-        margin: auto;
-        overflow: hidden;
-    }
-
-    .carousel-container {
-        display: flex;
-        transition: transform 0.5s ease-in-out;
-        width: 100%; /* 540px * 1 image */
-    }
-
-    .carousel-slide {
-        flex-shrink: 0;
-        width: 100%;
-        height: 100%;
-        border: none; /* Remove iframe borders */
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .carousel-slide img {
-        max-width: 100%;
-        max-height: 100%;
-        object-fit: contain; /* Ensures the image fits within the slide */
-    }
-
-    .prev, .next {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        background-color: rgba(0, 0, 0, 0.5);
-        color: white;
-        border: none;
-        padding: 10px;
-        cursor: pointer;
-        z-index: 10;
-    }
-
-    .prev {
-        left: 10px;
-    }
-
-    .next {
-        right: 10px;
-    }
-</style>
-
-<script>
-    let slideIndex = 0;
-
-    function moveSlide(n) {
-        const slides = document.querySelectorAll('.carousel-slide');
-        slideIndex = (slideIndex + n + slides.length) % slides.length;
-        document.querySelector('.carousel-container').style.transform = `translateX(${-slideIndex * 100}%)`; // Adjust this value to your image width
-    }
-</script>
 
 ---
 <h2 style="text-align: center;">UCL Ahlul-Bayt Society Pictures</h2>
