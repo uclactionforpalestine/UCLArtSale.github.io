@@ -110,7 +110,7 @@ The artworks in this collection have been generously donated to this fundraising
 <h2 style="text-align: center;">Spelling Mistakes Cost Lives</h2>
 
 <div class="picture">
-<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG"></div>
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/5897e0_4e8dca2df8ee4a51891394489cdf0b09mv2-scaled.jpg"></div>
 </div>
 
 ---
