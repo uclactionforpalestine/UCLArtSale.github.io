@@ -114,25 +114,17 @@ The artworks in this collection have been generously donated to this fundraising
 </div>
 
 ---
-<h2 style="text-align: center;">OUR DEMANDS</h2>
+<h2 style="text-align: center;">SkinDeep</h2>
 
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
     <div class="carousel-container">
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/1.PNG" alt="Slide 1"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/2.PNG" alt="Slide 2"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/3.PNG" alt="Slide 3"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/4.PNG" alt="Slide 4"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/5.PNG" alt="Slide 5"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/6.PNG" alt="Slide 6"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/7.PNG" alt="Slide 7"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/8.PNG" alt="Slide 8"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/9.PNG" alt="Slide 9"></div>
-        <div class="carousel-slide"><img src="https://lseliberatedzone.github.io/document/10.PNG" alt="Slide 10"></div>
-    </div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/1AC77A30-09DC-40F1-831E-91DA95500E73.JPG" alt="Slide 1"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/2BDF8940-1ABB-421F-9A71-097AA4D44990.JPG" alt="Slide 2"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/9F4D9FA2-39D5-43FB-83EA-5A5E479142C2.JPG" alt="Slide 3"></div>
+            </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
 </div>
-
 <style>
     .carousel {
         position: relative;
