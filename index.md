@@ -119,8 +119,8 @@ The artworks in this collection have been generously donated to this fundraising
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
     <div class="carousel-container">
-        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/1AC77A30-09DC-40F1-831E-91DA95500E73.JPG" alt="Slide 1"></div>
-        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/2BDF8940-1ABB-421F-9A71-097AA4D44990.JPG" alt="Slide 2"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/2BDF8940-1ABB-421F-9A71-097AA4D44990.JPG" alt="Slide 1"></div>
+                <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/1AC77A30-09DC-40F1-831E-91DA95500E73.JPG" alt="Slide 2"></div>
         <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/9F4D9FA2-39D5-43FB-83EA-5A5E479142C2.JPG" alt="Slide 3"></div>
             </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
@@ -137,7 +137,7 @@ The artworks in this collection have been generously donated to this fundraising
     .carousel-container {
         display: flex;
         transition: transform 0.5s ease-in-out;
-        width: 100%; /* 540px * 10 images */
+        width: 100%; /* 540px * 3 images */
     }
 
     .carousel-slide {
@@ -191,7 +191,7 @@ The artworks in this collection have been generously donated to this fundraising
 <h2 style="text-align: center;">Ruan Murphy</h2>
 
 <div class="picture">
-<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2799.jpg"></div>
+<img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/IMG_2799.JPG"></div>
 </div>
 ---
 <h2 style="text-align: center;">Peckham Keffiyeh</h2>
