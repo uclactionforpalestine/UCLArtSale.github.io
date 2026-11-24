@@ -15,7 +15,7 @@ The artworks in this collection have been generously donated to this fundraising
 <div class="carousel">
     <button class="prev" onclick="moveSlide(-1)">❮</button>
     <div class="carousel-container">
-        <div class="carousel-slide"><img src="https://UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG" alt="Slide 1"></div>
+        <div class="carousel-slide"><img src="http://uclactionforpalestine.github.io/UCLArtSale.github.io/document/F7232A20-A6F3-440B-A918-19B46AD6CDE8.JPG" alt="Slide 1"></div>
     </div>
     <button class="next" onclick="moveSlide(1)">❯</button>
 </div>
